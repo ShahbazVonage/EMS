@@ -45,10 +45,3 @@ A console-based Java application to manage Employees, Managers, and Projects usi
 | `DuplicateEmployeeException` | Custom exception for duplicate ID |
 
 ---
-
-## 🖥️ How to Run
-
-1. Clone the repository or copy the code into your IDE.
-2. Make sure you have Java 17+ installed.
-3. Run the `EmsConsole` class.
-4. Use the console menu to interact with the system.
