@@ -7,7 +7,7 @@ A console-based Java application to manage Employees, Managers, and Projects usi
 
 ## 🚀 Features
 
-- Add employees and managers with name, age, salary, department
+- Add employees and managers with Id, name, age, salary, department
 - Assign employees to managers
 - Create projects and assign them to managers
 - Assign employees to projects (only if under that manager)
